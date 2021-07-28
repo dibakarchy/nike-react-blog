@@ -1,0 +1,37 @@
+.bg{
+    background-color: #FFF9F4;
+}
+.heading h2{
+    font-weight: 700;
+    font-size: 3em;
+}
+
+.text{
+    color: #363958;
+    font-size: 24px;
+    font-weight: 600;
+}
+ .back-img{
+     margin-left: 8px;
+     /* width: 330px;
+     height: 311px; */
+    background-color: #E5E5E5;
+    border-radius: 20px !important
+}
+
+.blog-img img{
+    /* width:334px;
+    height: 327px; */
+    width: auto;
+    height: auto;
+    border-radius: 20px !important;
+    background-color:#F1F1F1;
+}
+/* .body{
+box-shadow: 1px 1px 20px #e5e5e5a4 , 1px 1px 20px #e5e5e5a4 , 1px 1px 20px #e5e5e5a4 ,
+ 1px 1px 20px #e5e5e5a4 , !important ;
+} */
+
+.fab{
+    font-size: 40px;
+}
